@@ -1,13 +1,13 @@
-Solver command line: ['C:\\Users\\laroc\\miniconda3\\envs\\pyomo_m\\Library\\bin\\glpsol.exe', '--write', 'C:\\Users\\laroc\\AppData\\Local\\Temp\\tmplw7hy1cs.glpk.raw', '--wglp', 'C:\\Users\\laroc\\AppData\\Local\\Temp\\tmpgwowmp7o.glpk.glp', '--cpxlp', 'C:\\Users\\laroc\\AppData\\Local\\Temp\\tmpdacf2ly8.pyomo.lp']
+Solver command line: ['C:\\Users\\javier\\miniconda3\\envs\\pyomo_env\\Library\\bin\\glpsol.exe', '--write', 'C:\\Users\\javier\\AppData\\Local\\Temp\\tmp4vutsu8y.glpk.raw', '--wglp', 'C:\\Users\\javier\\AppData\\Local\\Temp\\tmpnuf8jmmd.glpk.glp', '--cpxlp', 'C:\\Users\\javier\\AppData\\Local\\Temp\\tmpom_i2wyj.pyomo.lp']
 
 GLPSOL--GLPK LP/MIP Solver 5.0
 Parameter(s) specified in the command line:
- --write C:\Users\laroc\AppData\Local\Temp\tmplw7hy1cs.glpk.raw --wglp C:\Users\laroc\AppData\Local\Temp\tmpgwowmp7o.glpk.glp
- --cpxlp C:\Users\laroc\AppData\Local\Temp\tmpdacf2ly8.pyomo.lp
-Reading problem data from 'C:\Users\laroc\AppData\Local\Temp\tmpdacf2ly8.pyomo.lp'...
+ --write C:\Users\javier\AppData\Local\Temp\tmp4vutsu8y.glpk.raw --wglp C:\Users\javier\AppData\Local\Temp\tmpnuf8jmmd.glpk.glp
+ --cpxlp C:\Users\javier\AppData\Local\Temp\tmpom_i2wyj.pyomo.lp
+Reading problem data from 'C:\Users\javier\AppData\Local\Temp\tmpom_i2wyj.pyomo.lp'...
 8 rows, 10 columns, 65 non-zeros
 118 lines were read
-Writing problem data to 'C:\Users\laroc\AppData\Local\Temp\tmpgwowmp7o.glpk.glp'...
+Writing problem data to 'C:\Users\javier\AppData\Local\Temp\tmpnuf8jmmd.glpk.glp'...
 104 lines were written
 GLPK Simplex Optimizer 5.0
 8 rows, 10 columns, 65 non-zeros
@@ -23,6 +23,6 @@ Size of triangular part is 8
 OPTIMAL LP SOLUTION FOUND
 Time used:   0.0 secs
 Memory used: 0.0 Mb (35431 bytes)
-Writing basic solution to 'C:\Users\laroc\AppData\Local\Temp\tmplw7hy1cs.glpk.raw'...
+Writing basic solution to 'C:\Users\javier\AppData\Local\Temp\tmp4vutsu8y.glpk.raw'...
 27 lines were written
 
